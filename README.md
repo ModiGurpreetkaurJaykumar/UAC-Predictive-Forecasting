@@ -351,7 +351,7 @@ Confirm the exact file names and how `app.py` uses each file. Do not publish dat
 
 The interactive dashboard is built using **Streamlit** and can be published through Streamlit Community Cloud.
 
-**Live Dashboard:** 
+**Live Dashboard:** https://uac-predictive-forecasting-gk.streamlit.app/
 
 ---
 
@@ -359,7 +359,7 @@ The interactive dashboard is built using **Streamlit** and can be published thro
 
 The GitHub repository will contain the project source code, analysis notebook, dataset files where appropriate, dependencies, and documentation.
 
-**Repository URL:** 
+**Repository URL:** https://github.com/ModiGurpreetkaurJaykumar/UAC-Predictive-Forecasting
 
 ---
 
